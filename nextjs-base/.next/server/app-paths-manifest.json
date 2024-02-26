@@ -1,0 +1,8 @@
+{
+  "/hotel/page": "app/hotel/page.js",
+  "/admin/course/page": "app/admin/course/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/hotel/[id]/page": "app/hotel/[id]/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
